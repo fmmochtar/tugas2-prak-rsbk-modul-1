@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package morecolors;
 
 /**
@@ -17,6 +12,8 @@ public class ColorForm extends javax.swing.JFrame {
     public ColorForm() {
         initComponents();
         
+        // did it work?
+
         res_pic1.setLocation(220, 420);
         res_pic2.setLocation(220, 80);
     }
