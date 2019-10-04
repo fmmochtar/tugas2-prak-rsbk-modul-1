@@ -4,4 +4,4 @@ Tugas 2 praktikum RSBK 2019.
 
 Kelompok 10
 
-Notes: Hiks, fotonya jelek semua, ga usah terlalu dipantengin pls. :(
+Notes: Hiks, fotonya jelek semua, ga usah terlalu dipantengin please. :(
